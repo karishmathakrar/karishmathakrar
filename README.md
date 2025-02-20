@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm passionate about building AI-driven enterprise solutions that enhance decision-making, streamline workflows, and uncover actionable insights. My work spans natural language processing, graph-based learning, and multimodal AI, with applications in recommendation systems, information retrieval, and knowledge representation. With a background in Computational Analytics from Georgia Tech and Finance from NYU Stern, I blend technical depth with strategic insight to build adaptable and interpretable models with real-world applications.
+I'm passionate about building AI-driven enterprise solutions that enhance decision-making, streamline workflows, and uncover actionable insights. My work spans natural language processing, graph-based learning, and multimodal AI, focusing on recommendation systems, context-aware retrieval, and knowledge representation and reasoning. With a background in Computational Analytics from Georgia Tech and Finance from NYU Stern, I blend technical depth with strategic insight to build adaptable and interpretable models with real-world applications.
 
-Beyond research and engineering, I’m always looking for new ways to push AI innovation forward while keeping a human-centered approach. Feel free to explore my research and experience, and reach out at kthakrar16@gmail.com or on [LinkedIn](https://www.linkedin.com/) if you’d like to connect.
+Beyond research and engineering, I’m always looking for new ways to advance AI while keeping a human-centered approach. Feel free to explore my research and experience, and reach out at kthakrar16@gmail.com or on [LinkedIn](https://www.linkedin.com/) if you’d like to connect.
 
 ## Research
 
