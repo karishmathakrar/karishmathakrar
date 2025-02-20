@@ -21,10 +21,10 @@ Beyond research and engineering, I’m always looking for new ways to push AI in
 
 ## Research
 
-- **DynaGRAG** | Exploring the Topology of Information for Advancing Language Understanding and Generation in Graph Retrieval-Augmented Generation
-- **StAyaL** | Multilingual Style Transfer (January 2025)
-- **AlgoRxplorers** | Precision in Mutation: Enhancing Drug Design with Advanced Protein Stability Prediction Tools
-- **Enhancing Talent Employment Insights Through Feature Extraction with LLM Fine-Tuning**
-- **GitHub Stargazers** | Building Graph- and Edge-level Prediction Algorithms for Developer Social Networks
+- [**DynaGRAG** | Exploring the Topology of Information for Advancing Language Understanding and Generation in Graph Retrieval-Augmented Generation](arxiv.org/abs/2412.18644)
+- [**StAyaL** | Multilingual Style Transfer](arxiv.org/abs/2501.11639)
+- [**AlgoRxplorers** | Precision in Mutation: Enhancing Drug Design with Advanced Protein Stability Prediction Tools](arxiv.org/abs/2501.07014)
+- [**Enhancing Talent Employment Insights Through Feature Extraction with LLM Fine-Tuning**](arxiv.org/abs/2501.07663)
+- [**GitHub Stargazers** | Building Graph- and Edge-level Prediction Algorithms for Developer Social Networks](arxiv.org/abs/2502.00058)
 
 Thanks for stopping by! 🚀
