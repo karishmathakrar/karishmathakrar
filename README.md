@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As an AI researcher and engineer, I thrive on building enterprise solutions that enhance decision-making, streamline workflows, and uncover actionable insights. My work spans natural language processing, graph-based learning, and multimodal AI, with a focus on recommendation systems, context-aware retrieval, and knowledge representation and reasoning.
+As an AI researcher and engineer, I thrive on building enterprise solutions that enhance decision-making, streamline workflows, and uncover actionable insights. My work spans natural language processing, graph-based learning, and multimodal AI, with a focus on recommendation systems, context-aware retrieval, and knowledge representation and reasoning. With a background in Computational Analytics from Georgia Tech and Finance from NYU Stern, I blend technical depth with strategic insight to create adaptable, interpretable models that deliver tangible business value while maintaining a human-centered approach.
 
-With a background in Computational Analytics from Georgia Tech and Finance from NYU Stern, I blend technical depth with strategic insight to create adaptable, interpretable models that deliver tangible business value. I’m passionate about advancing AI while maintaining a human-centered approach.
-
-Feel free to explore my work and reach out at [kthakrar16@gmail.com](kthakrar16@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/).
+Feel free to explore my work and reach out at kthakrar16@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/).
 
 ## Research
 
