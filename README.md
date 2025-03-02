@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As an AI researcher and engineer, I thrive on building enterprise solutions that enhance decision-making, streamline workflows, and uncover actionable insights. My work spans natural language processing, graph-based learning, and multimodal AI, with a focus on recommendation systems, context-aware retrieval, and knowledge representation and reasoning. With a background in Computational Analytics from Georgia Tech and Finance from NYU Stern, I blend technical depth with strategic insight to create adaptable, interpretable models that deliver tangible business value while maintaining a human-centered approach.
+As a recent graduate in Computational Analytics from Georgia Tech, I specialize in leveraging machine learning, statistical modeling, and large-scale data analysis to drive product innovation and business impact. My work spans predictive modeling, recommendation systems, and graph machine learning, with a strong foundation in NLP and applied AI. With a background in Finance from NYU Stern, I blend technical rigor with strategic insight to develop interpretable, scalable solutions that optimize user experience, inform product strategy, and enhance decision-making.
 
 Feel free to explore my work and reach out at kthakrar16@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/).
 
