@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 As a recent graduate in Computational Analytics from Georgia Tech, I specialize in leveraging machine learning, statistical modeling, and large-scale data analysis to drive product innovation and business impact. My work spans predictive modeling, recommendation systems, and graph machine learning, with a strong foundation in NLP and applied AI. With a background in Finance from NYU Stern, I blend technical rigor with strategic insight to develop interpretable, scalable solutions that optimize user experience, inform product strategy, and enhance decision-making.
 
-Feel free to explore my work and reach out at kthakrar16@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/).
+Feel free to explore my work and reach out at kthakrar16@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/karishmathakrar).
 
 ## Research
 
